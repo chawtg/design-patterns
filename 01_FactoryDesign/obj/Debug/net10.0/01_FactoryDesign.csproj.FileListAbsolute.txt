@@ -1,0 +1,15 @@
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.AssemblyInfoInputs.cache
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.AssemblyInfo.cs
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.csproj.CoreCompileInputs.cache
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.sourcelink.json
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/bin/Debug/net10.0/01_FactoryDesign
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/bin/Debug/net10.0/01_FactoryDesign.deps.json
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/bin/Debug/net10.0/01_FactoryDesign.runtimeconfig.json
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/bin/Debug/net10.0/01_FactoryDesign.dll
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/bin/Debug/net10.0/01_FactoryDesign.pdb
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.dll
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/refint/01_FactoryDesign.dll
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.pdb
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/01_FactoryDesign.genruntimeconfig.cache
+/Users/chaw/Library/CloudStorage/OneDrive-Personal/Github/design-patterns/01_FactoryDesign/obj/Debug/net10.0/ref/01_FactoryDesign.dll
